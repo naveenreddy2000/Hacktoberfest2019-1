@@ -51,5 +51,6 @@
     "title": "git status",
     "description": "This command displays the state of the working directory and the staging area."
    }
+   
  ]
 
