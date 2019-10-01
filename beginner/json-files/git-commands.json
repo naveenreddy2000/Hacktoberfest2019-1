@@ -47,7 +47,7 @@
     "title": "git config",
     "description": "This command sets the author name and email address respectively to be used with your commits."
   },
-  {
+ {
     "title": "git status",
     "description": "This command displays the state of the working directory and the staging area."
    }
